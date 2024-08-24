@@ -12,7 +12,7 @@ Bonus: Can you do this in one pass?
 
 public class Problem1
 {
-    public bool CheckForPair(List<int> numbers, int k)
+    public static bool CheckForPair(List<int> numbers, int k)
     {
         int i1 = 0;
         int i2 = 0;
